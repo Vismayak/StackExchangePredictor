@@ -1,3 +1,4 @@
+#!/bin/bash
 # StackExchangePredictor Shell Script
 pip install numpy --upgrade
 pip install pandas --upgrade
